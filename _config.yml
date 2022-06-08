@@ -24,8 +24,13 @@ github_username: mikah1337
 minimal_mistakes_skin: contrast
 search: true
 teaser: assets/images/mm-home-page-feature.jpg
-masthead_title: "My Custom Title"
+# masthead_title: "My Custom Title"
+subtitle: "Test subtitle"
 breadcrumbs: true
+# logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+toc: true
+toc_label: "My Table of Contents"
+toc_icon: "cog"
 
 # Build settings
 markdown: kramdown
@@ -73,7 +78,7 @@ author:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/mikah1337"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/mikah1337"
@@ -85,10 +90,10 @@ footer:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/mikah1337"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/mikah1337"
 
 defaults:
   # _posts
